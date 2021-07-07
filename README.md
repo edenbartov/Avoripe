@@ -6,4 +6,3 @@ A practical thanks to Zvika Markfeld, of ForRealTeam, for teaching us everything
 
 link to a guild to builed the device step by step: 
 https://www.instructables.com/id/AvoRipe-Checking-If-Your-Avocado-Is-Ripe/
-
